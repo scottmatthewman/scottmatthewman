@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm **Scott** (he/him), a developer specialising in [Ruby](https://ruby-lang.org), [Rails](https://rubyonrails.org) and [ReactJS](https://reactjs.org), with further knowledge in [Swift](https://swift.org) and [SwiftUI](https://developer.apple.com/xcode/swiftui/) plus a smattering of other languages.
+
+
 <!--
 **scottmatthewman/scottmatthewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
